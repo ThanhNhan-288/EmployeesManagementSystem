@@ -1,0 +1,544 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\mguye\\source\\repos\\solution1employeemanagementsystemsolution\\businesslayer\\bus\\chucvubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\bus\\chucvubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\datalayer\\dal\\phongbandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dal\\phongbandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\datalayer\\dal\\chucvudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dal\\chucvudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\datalayer\\dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\datalayer\\dal\\luongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dal\\luongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\datalayer\\dal\\bophandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dal\\bophandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\businesslayer\\bus\\bophanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\bus\\bophanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\businesslayer\\bus\\thongkebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\bus\\thongkebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\datalayer\\dal\\taikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dal\\taikhoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\datalayer\\dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7563F9-CFE2-4A81-BC81-5D850A7A4F91}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\transferobject\\dto\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\dto\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\businesslayer\\bus\\taikhoanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\bus\\taikhoanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\transferobject\\dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\businesslayer\\bus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\bus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\transferobject\\dto\\luongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\dto\\luongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\businesslayer\\bus\\luongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264330A2-647B-4EDF-9639-B60470FF0161}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\bus\\luongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\transferobject\\dto\\chucvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\dto\\chucvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\transferobject\\dto\\bophandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\dto\\bophandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\presentationlayer\\fdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C7ECFF-8072-430D-BD65-B3EF91497FDF}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\fdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\transferobject\\dto\\phongbandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA7B369-313E-41F7-B2F5-B69B09BECE04}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\dto\\phongbandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "fLuong.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fLuong.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fLuong.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fLuong.cs",
+              "RelativeToolTip": "PresentationLayer\\fLuong.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAAwNUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:53:51.632Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhongBanDAL.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\PhongBanDAL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DAL\\PhongBanDAL.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\PhongBanDAL.cs",
+              "RelativeToolTip": "DataLayer\\DAL\\PhongBanDAL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:30:25.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaiKhoanDAL.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\TaiKhoanDAL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DAL\\TaiKhoanDAL.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\TaiKhoanDAL.cs",
+              "RelativeToolTip": "DataLayer\\DAL\\TaiKhoanDAL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:49:49.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoPhanDAL.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\BoPhanDAL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DAL\\BoPhanDAL.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\BoPhanDAL.cs",
+              "RelativeToolTip": "DataLayer\\DAL\\BoPhanDAL.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:30:44.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChucVuDAL.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\ChucVuDAL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DAL\\ChucVuDAL.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\ChucVuDAL.cs",
+              "RelativeToolTip": "DataLayer\\DAL\\ChucVuDAL.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:30:52.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChucVuBUS.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\ChucVuBUS.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BUS\\ChucVuBUS.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\ChucVuBUS.cs",
+              "RelativeToolTip": "BusinessLayer\\BUS\\ChucVuBUS.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:33:15.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienDAL.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\NhanVienDAL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DAL\\NhanVienDAL.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\NhanVienDAL.cs",
+              "RelativeToolTip": "DataLayer\\DAL\\NhanVienDAL.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowHQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:43:48.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LuongDAL.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\LuongDAL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DAL\\LuongDAL.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\LuongDAL.cs",
+              "RelativeToolTip": "DataLayer\\DAL\\LuongDAL.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:59:25.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoPhanBUS.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\BoPhanBUS.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BUS\\BoPhanBUS.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\BoPhanBUS.cs",
+              "RelativeToolTip": "BusinessLayer\\BUS\\BoPhanBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:42:26.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DAL\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\DataLayer\\DAL\\DataProvider.cs",
+              "RelativeToolTip": "DataLayer\\DAL\\DataProvider.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:29:46.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThongKeBUS.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\ThongKeBUS.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BUS\\ThongKeBUS.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\ThongKeBUS.cs",
+              "RelativeToolTip": "BusinessLayer\\BUS\\ThongKeBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:51:13.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fLuong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fLuong.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fLuong.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fLuong.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\fLuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:02:28.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fDanhSachTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fDanhSachTaiKhoan.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fDanhSachTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fDanhSachTaiKhoan.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\fDanhSachTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:48:35.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fPhongBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fPhongBan.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fPhongBan.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fPhongBan.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\fPhongBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:07:34.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fNhanVien.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fNhanVien.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fNhanVien.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\fNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:53:15.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fMain.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fMain.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fMain.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\fMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:02:13.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fDangKi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fDangKi.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fDangKi.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fDangKi.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\fDangKi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:47:14.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "fNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fNhanVien.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fNhanVien.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fNhanVien.cs",
+              "RelativeToolTip": "PresentationLayer\\fNhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4DAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:24:04.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaiKhoanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\TaiKhoanDTO.cs",
+              "RelativeDocumentMoniker": "TransferObject\\DTO\\TaiKhoanDTO.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\TaiKhoanDTO.cs",
+              "RelativeToolTip": "TransferObject\\DTO\\TaiKhoanDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:39:59.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaiKhoanBUS.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\TaiKhoanBUS.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BUS\\TaiKhoanBUS.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\TaiKhoanBUS.cs",
+              "RelativeToolTip": "BusinessLayer\\BUS\\TaiKhoanBUS.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:51:16.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "fDanhSachTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fDanhSachTaiKhoan.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fDanhSachTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fDanhSachTaiKhoan.cs",
+              "RelativeToolTip": "PresentationLayer\\fDanhSachTaiKhoan.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:52:24.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "fMain.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fMain.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fMain.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fMain.cs",
+              "RelativeToolTip": "PresentationLayer\\fMain.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwGkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:05:16.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NhanVienDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\NhanVienDTO.cs",
+              "RelativeDocumentMoniker": "TransferObject\\DTO\\NhanVienDTO.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\NhanVienDTO.cs",
+              "RelativeToolTip": "TransferObject\\DTO\\NhanVienDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:00:29.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NhanVienBUS.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\NhanVienBUS.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BUS\\NhanVienBUS.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\NhanVienBUS.cs",
+              "RelativeToolTip": "BusinessLayer\\BUS\\NhanVienBUS.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwEEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:37:43.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fPhongBan.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fPhongBan.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fPhongBan.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fPhongBan.cs",
+              "RelativeToolTip": "PresentationLayer\\fPhongBan.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAgwJ4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:17:04.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LuongDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\LuongDTO.cs",
+              "RelativeDocumentMoniker": "TransferObject\\DTO\\LuongDTO.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\LuongDTO.cs",
+              "RelativeToolTip": "TransferObject\\DTO\\LuongDTO.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:58:40.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\packages.config",
+              "RelativeDocumentMoniker": "PresentationLayer\\packages.config",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\packages.config",
+              "RelativeToolTip": "PresentationLayer\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-13T09:14:55.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LuongBUS.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\LuongBUS.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BUS\\LuongBUS.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\BusinessLayer\\BUS\\LuongBUS.cs",
+              "RelativeToolTip": "BusinessLayer\\BUS\\LuongBUS.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:01:05.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChucVuDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\ChucVuDTO.cs",
+              "RelativeDocumentMoniker": "TransferObject\\DTO\\ChucVuDTO.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\ChucVuDTO.cs",
+              "RelativeToolTip": "TransferObject\\DTO\\ChucVuDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:29:15.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BoPhanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\BoPhanDTO.cs",
+              "RelativeDocumentMoniker": "TransferObject\\DTO\\BoPhanDTO.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\BoPhanDTO.cs",
+              "RelativeToolTip": "TransferObject\\DTO\\BoPhanDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:29:09.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "fDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fDangNhap.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fDangNhap.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fDangNhap.cs",
+              "RelativeToolTip": "PresentationLayer\\fDangNhap.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:46:21.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "fDangKi.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fDangKi.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\fDangKi.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\PresentationLayer\\fDangKi.cs",
+              "RelativeToolTip": "PresentationLayer\\fDangKi.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:47:19.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PhongBanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\PhongBanDTO.cs",
+              "RelativeDocumentMoniker": "TransferObject\\DTO\\PhongBanDTO.cs",
+              "ToolTip": "C:\\Users\\mguye\\source\\repos\\Solution1EmployeeManagementSystemSolution\\TransferObject\\DTO\\PhongBanDTO.cs",
+              "RelativeToolTip": "TransferObject\\DTO\\PhongBanDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:29:04.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

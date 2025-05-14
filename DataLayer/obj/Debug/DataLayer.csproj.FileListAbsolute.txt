@@ -1,0 +1,13 @@
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\..bin\Debug\DataLayer.dll
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\..bin\Debug\DataLayer.pdb
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\..bin\Debug\TransferObject.dll
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\..bin\Debug\TransferObject.pdb
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\..bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\mguye\source\repos\Solution1EmployeeManagementSystemSolution\DataLayer\..bin\Debug\System.Configuration.ConfigurationManager.xml
