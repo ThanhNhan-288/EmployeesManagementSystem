@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -409,84 +409,77 @@ namespace PresentationLayer
         }
 
         private void btnXuatDanhSach_Click(object sender, EventArgs e)
-        {
-           
+        {      
             try
             {
-                nhanVienList = bus.LayTatCaNhanVien();
-                if (nhanVienList == null || nhanVienList.Count == 0)
+                if (dgvNhanVien.Rows.Count == 0)
                 {
-                    MessageBox.Show("Không có dữ liệu để xuất!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("Không có nhân viên nào để xuất!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
-                SaveFileDialog saveFileDialog = new SaveFileDialog
-                {
-                    Title = "Chọn nơi lưu file báo cáo",
-                    Filter = "Excel Files|*.xlsx",
-                    FileName = $"DanhSachNhanVien_{DateTime.Now:yyyyMMdd}.xlsx"
-                };
 
-                if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                // Tạo Workbook
+                using (XLWorkbook workbook = new XLWorkbook())
                 {
-                    string filePath = saveFileDialog.FileName;
+                    var worksheet = workbook.Worksheets.Add("DanhSachNhanVien");
 
-                    using (XLWorkbook workbook = new XLWorkbook())
+                    // Tiêu đề bảng
+                    worksheet.Cell(1, 1).Value = "Mã Nhân Viên";
+                    worksheet.Cell(1, 2).Value = "Họ Tên";
+                    worksheet.Cell(1, 3).Value = "Giới Tính";
+                    worksheet.Cell(1, 4).Value = "Ngày Sinh";
+                    worksheet.Cell(1, 5).Value = "Địa Chỉ";
+                    worksheet.Cell(1, 6).Value = "CCCD";
+                    worksheet.Cell(1, 7).Value = "Số Điện Thoại";
+                    worksheet.Cell(1, 8).Value = "Phòng Ban";
+                    worksheet.Cell(1, 9).Value = "Bộ Phận";
+                    worksheet.Cell(1, 10).Value = "Chức Vụ";
+
+                    // Định dạng tiêu đề
+                    var headerRange = worksheet.Range("A1:J1");
+                    headerRange.Style.Font.Bold = true;
+                    headerRange.Style.Fill.BackgroundColor = XLColor.LightGray;
+                    headerRange.Style.Alignment.Horizontal = XLAlignmentHorizontalValues.Center;
+
+                    // Điền dữ liệu từ DataGridView
+                    int rowIndex = 2;
+                    foreach (DataGridViewRow row in dgvNhanVien.Rows)
                     {
-                        var worksheet = workbook.Worksheets.Add("DanhSachNhanVien");
+                        worksheet.Cell(rowIndex, 1).Value = row.Cells["MaNhanVien"].Value.ToString();
+                        worksheet.Cell(rowIndex, 2).Value = row.Cells["HoTen"].Value.ToString();
+                        worksheet.Cell(rowIndex, 3).Value = row.Cells["GioiTinh"].Value.ToString();
+                        worksheet.Cell(rowIndex, 4).Value = Convert.ToDateTime(row.Cells["NgaySinh"].Value).ToString("dd/MM/yyyy");
+                        worksheet.Cell(rowIndex, 5).Value = row.Cells["DiaChi"].Value.ToString();
+                        worksheet.Cell(rowIndex, 6).Value = row.Cells["CCCD"].Value.ToString();
+                        worksheet.Cell(rowIndex, 7).Value = row.Cells["SoDienThoai"].Value.ToString();
+                        worksheet.Cell(rowIndex, 8).Value = row.Cells["TenPhongBan"].Value.ToString();
+                        worksheet.Cell(rowIndex, 9).Value = row.Cells["TenBoPhan"].Value.ToString();
+                        worksheet.Cell(rowIndex, 10).Value = row.Cells["TenChucVu"].Value.ToString();
+                        rowIndex++;
+                    }
 
-                        // Tạo header
-                        string[] headers = {
-                    "Mã Nhân Viên", "Họ Tên", "Giới Tính", "Ngày Sinh",
-                    "Địa Chỉ", "CCCD", "Số Điện Thoại",
-                    "Phòng Ban", "Bộ Phận", "Chức Vụ"
-                };
+                    // Định dạng cột
+                    worksheet.Columns().AdjustToContents();
 
-                        for (int i = 0; i < headers.Length; i++)
-                        {
-                            worksheet.Cell(1, i + 1).Value = headers[i];
-                            worksheet.Cell(1, i + 1).Style.Font.Bold = true;
-                            worksheet.Cell(1, i + 1).Style.Fill.BackgroundColor = XLColor.LightBlue;
-                            worksheet.Cell(1, i + 1).Style.Alignment.Horizontal = XLAlignmentHorizontalValues.Center;
-                            worksheet.Cell(1, i + 1).Style.Border.OutsideBorder = XLBorderStyleValues.Thin;
-                        }
+                    // Lưu file
+                    SaveFileDialog saveFileDialog = new SaveFileDialog
+                    {
+                        Filter = "Excel Files|*.xlsx",
+                        Title = "Lưu File Excel"
+                    };
 
-                        // Điền dữ liệu
-                        int row = 2;
-                        foreach (var nv in nhanVienList)
-                        {
-                            worksheet.Cell(row, 1).Value = nv.MaNhanVien;
-                            worksheet.Cell(row, 2).Value = nv.HoTen;
-                            worksheet.Cell(row, 3).Value = nv.GioiTinh;
-                            worksheet.Cell(row, 4).Value = nv.NgaySinh.ToString("dd/MM/yyyy");
-                            worksheet.Cell(row, 5).Value = nv.DiaChi;
-                            worksheet.Cell(row, 6).Value = nv.CCCD;
-                            worksheet.Cell(row, 7).Value = nv.SoDienThoai;
-                            worksheet.Cell(row, 8).Value = nv.TenPhongBan;
-                            worksheet.Cell(row, 9).Value = nv.TenBoPhan;
-                            worksheet.Cell(row, 10).Value = nv.TenChucVu;
-
-                            // Thêm border cho mỗi dòng
-                            for (int col = 1; col <= headers.Length; col++)
-                            {
-                                worksheet.Cell(row, col).Style.Border.OutsideBorder = XLBorderStyleValues.Thin;
-                            }
-
-                            row++;
-                        }
-
-                        // Tự động căn chỉnh cột
-                        worksheet.Columns().AdjustToContents();
-
-                        // Lưu file
+                    if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                    {
+                        string filePath = saveFileDialog.FileName;
                         workbook.SaveAs(filePath);
+                        MessageBox.Show("Xuất báo cáo thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         Process.Start(new ProcessStartInfo(filePath) { UseShellExecute = true });
-                        MessageBox.Show("Xuất báo cáo danh sách nhân viên thành công!\nFile đã lưu tại: " + filePath);
                     }
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Lỗi: " + ex.Message);
+                MessageBox.Show("Lỗi khi xuất báo cáo: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
         }
